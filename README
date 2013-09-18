@@ -1,0 +1,10 @@
+This is an Android app that allows simple conversion between Imperial
+and Metric units. To use, first install it on your device and open it.
+Then first put in the unit you want to convert from in the first drop-
+down menu, and the unit you want to convert to in the second. Notice 
+that the second menu changes according to your choice in the first
+one.
+
+Next, enter the amount you want to convert in the field that says
+"Enter Units Here!". Then press the "Convert!" button and enjoy your
+new units.
